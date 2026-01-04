@@ -1,0 +1,33 @@
+# Virtual Environments
+bot_env/
+venv/
+env/
+ENV/
+
+# Environment Variables & API Keys
+*.env
+.env
+bot.env
+config.py
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
